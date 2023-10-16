@@ -1,0 +1,7 @@
+Sentiment Analysis for video: Metro_Boomin,_Coi_Leray_-_Self_Love_(Official_Lyric_Video)
+There were 100 comments extracted from the video.
+88 were positive comments, and 12 were negative comments.
+The most positive comment was:  'i really love this song. i'm so glad this masterpiece represents a character as amazing and interesting as gwen 💗'
+with a compound score of 0.9685.
+The most negative comment was: 'this song is mad underrated'
+ with a compound score of -0.4939.
